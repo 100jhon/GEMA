@@ -1,0 +1,7 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("https://www.notifresh.com/wp-content/uploads/2020/02/pateando-el-balon-de-futbol.jpg");
+  }
